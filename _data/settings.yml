@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+# disqus:
+#   comments: false
+#   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
@@ -13,6 +13,7 @@ menu:
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Calendar', folder: 'pages', file: 'calendar.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
